@@ -1,3 +1,9 @@
+/*
+passwd file library for web applications
+Copyright (c) 2016 aerth
+import github.com/aerth/passwd
+MIT License
+*/
 package passwd
 
 import (
